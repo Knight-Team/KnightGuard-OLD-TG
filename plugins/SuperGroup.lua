@@ -3005,11 +3005,3 @@ return {
   run = run,
   pre_process = pre_process
 }
---[[
-'..msg.sender_user_id_..' ایدی فرد 
-result.first_name_ اسم فرد
-'..msg.chat_id_..' ایدی چت
-'..result.id_..' ایدی دریافتی
-'..result.sender_user_id_..' ایدی یافت شده
-'..result.sender_user_username_..' فرد درخواست شده 
-]]
